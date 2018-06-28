@@ -6,3 +6,7 @@
 	path = client
 	url = https://github.com/GitHug/salary-exchange-client.git
 	branch = master
+[submodule "functions"]
+	path = functions
+	url = https://github.com/GitHug/salary-exchange-functions.git
+	branch = master
