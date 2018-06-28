@@ -1,6 +1,8 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/GitHug/salary-exchange-api.git
+	branch = master
 [submodule "client"]
 	path = client
 	url = https://github.com/GitHug/salary-exchange-client.git
+	branch = master
